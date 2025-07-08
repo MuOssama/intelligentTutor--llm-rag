@@ -1,6 +1,6 @@
 # RAG PDF Q&A System
 
-A simple Retrieval-Augmented Generation (RAG) application for querying PDF documents using local LLMs. Process research papers and get intelligent answers with source citations.
+A demo app for Retrieval-Augmented Generation (RAG) application for querying PDF documents using local LLMs. Process research papers and get intelligent answers with source citations.
 
 ## Features
 
@@ -160,7 +160,3 @@ SOURCES:
 **Optional:**
 - `chromadb` - Alternative vector database
 - `faiss-gpu` - GPU acceleration
-
-## License
-
-Open source - see LICENSE file for details.
